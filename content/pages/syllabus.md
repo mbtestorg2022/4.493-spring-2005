@@ -23,10 +23,39 @@ Grading
 
 Grades will be based on your participation in two separate components:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Software Database Research, Evaluation and Input | 50 |
-| Design Proposal | 50 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Software Database Research, Evaluation and Input
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Resources
 ---------

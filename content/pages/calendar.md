@@ -4,15 +4,145 @@ title: Calendar
 uid: c3bf37af-2a2d-d9a5-e38a-d9df5f4667a2
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| Lab 1 | Software Introduction | Software Distribution and Tutorials |
-| Lecture 1 | Material Properties and Selection | Reading Packet 1 |
-| Lab 2 | Material Families and Emerging Materials  {{< br >}}  {{< br >}}Material Family Assignments | Family Data Sourcing |
-| Lecture 2 | Responsibility in Materials Use | Reading Packet 2 |
-| Lab 3 | Data Input | Data Verification and Input |
-| Lecture 3 | New Materials and Architectural Form  {{< br >}}  {{< br >}}Emergent Materials and Design | Reading Packet 3 |
-| Lab 4 | Application to Design | Preliminary Design Interests |
-| Lecture 4 | An Industrial Ecology of Construction | Reading Packet 4 |
-| Lab 5 | Design Proposals | Design Proposal Specification and Visualization |
-| Lab 6 | In-class Project Presentations | Design Proposal Specification and Visualization (cont.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+Software Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Software Distribution and Tutorials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+Material Properties and Selection
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Packet 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Material Families and Emerging Materials  
+  
+Material Family Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+Family Data Sourcing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+Responsibility in Materials Use
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Packet 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+Data Input
+{{< tdclose >}}
+{{< tdopen >}}
+Data Verification and Input
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 3
+{{< tdclose >}}
+{{< tdopen >}}
+New Materials and Architectural Form  
+  
+Emergent Materials and Design
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Packet 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Application to Design
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary Design Interests
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 4
+{{< tdclose >}}
+{{< tdopen >}}
+An Industrial Ecology of Construction
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Packet 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+Design Proposals
+{{< tdclose >}}
+{{< tdopen >}}
+Design Proposal Specification and Visualization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6
+{{< tdclose >}}
+{{< tdopen >}}
+In-class Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Design Proposal Specification and Visualization (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
